@@ -32,7 +32,7 @@ namespace Course {
                     Console.WriteLine(i + ": " + vect[i]);
                 }
             }
-
+            Console.WriteLine("olá mundo");
 
         }
     }
